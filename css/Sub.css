@@ -79,3 +79,8 @@
     padding: 10%;
     margin: 2px;
 }
+
+.contents {
+    padding: 20px;
+    float: left;
+}

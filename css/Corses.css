@@ -50,6 +50,10 @@ li {
     margin-bottom: 50px;
 }
 
+.contents-item img {
+    padding: 10px;
+}
+
 .contents-item {
     float: left;
     margin-right: 20px;
@@ -81,3 +85,5 @@ li {
 .footer-list li {
     padding-bottom: 20px;
 }
+
+.

@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: #60E6C6;
+}
+
+.navbar a {
+    color: #0c2ef1;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 28px 32px;
+    display: block;
+    float: right;
+}
+
+.navbar a:hover {
+    color: #ffffff;
+    background-color: #60E6C6;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+#chapsel {
+    padding: 10%;
+    margin: 2px;
+}
+
+#chapsel img {
+    width: 90%;
+    height: 370px;
+    margin: 5px;
+    float: left;
+}
+
+#chapsel h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin: 2px;
+}
+
+#chapsel h3 {
+    font-size: 50px;
+    margin: 2px;
+    color: #60E6C6;
+}
+
+#chapsel p {
+    font-size: 30px;
+    margin: 2px;
+    float: right;
+    background-color: #60E6C6;
+    color: #ffffff;
+    padding: 10px;
+}
+
+#select p {
+    font-size: 30px;
+    margin: 2px;
+    float: right;
+    background-color: #60E6C6;
+    color: #ffffff;
+    padding: 10px;
+}
+
+#select {
+    padding: 10%;
+    margin: 2px;
+}
